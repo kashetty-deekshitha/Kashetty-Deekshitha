@@ -2,7 +2,7 @@
 
 ### 🎓 **B.Tech in Computer Science and Engineering** | 💻 **Full Stack Developer** | 🧠 **Problem Solving Enthusiast**
 
-I am a backend developer working at **Lloyds Technology Centre**. I’m passionate in building real world applications, solving challenging problems, and continuously upskilling myself to be a bett[...]
+I am a backend developer working at **Lloyds Technology Centre**. I’m passionate in building real world applications, solving challenging problems, and continuously upskilling myself to be a better engineer.
 
 ---
 
