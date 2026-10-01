@@ -57,14 +57,14 @@ I am a backend developer working at **Lloyds Technology Centre**. I’m passiona
 
 ## 📌 Projects
 
-### 🛒 [E-Shop - E-Commerce Website](https://deekshitha-k.github.io/E-Shop-App-Details/)
+### 🛒 [E-Shop - E-Commerce Website](https://kashetty-deekshitha.github.io/E-Shop-App-Details/)
 *April 2025 – June 2025*
 
 * Full-stack e-commerce platform with login, register, products page, add to cart, and checkout options.
 * **Deployment**: Backend deployed to **Render and Cloud Run** using **Docker**, and DB deployed to **Railway and Cloud SQL**.
 * **Tech Stack**: Backend Java Spring Boot, Cloud Run, Render; Frontend JavaScript, ReactJS, NodeJS, TailwindCSS; Database: Postresql, Railway, Cloud SQL.
 
-### 🌱 [**Paddy Leaf Disease Detection**](https://github.com/DEEKSHITHA-K/Paddy-Leaf-Disease-Detection)
+### 🌱 [**Paddy Leaf Disease Detection**](https://github.com/kashetty-deekshitha/Paddy-Leaf-Disease-Detection)
 *Aug 2023 – May 2024*
 
 * Predicts the disease of paddy leaf, suggests remedies and calculates intensity of leaf area affected.
@@ -76,9 +76,9 @@ I am a backend developer working at **Lloyds Technology Centre**. I’m passiona
 
 ## Other Notable Projects (Brief)
 
-- [**Credit Risk Modelling**](https://github.com/DEEKSHITHA-K/Credit-Risk-Modeling) - ML-based loan defaulter prediction with **93% accuracy**
-- [**Open AI with Java**](https://github.com/DEEKSHITHA-K/OpenAI-with-java) - Project to demonstrate how to integrate OpenAI's GPT models with Java microservices using Spring Boot and Spring AI
-- [**Machine Learning Projects**](https://github.com/DEEKSHITHA-K/Machine-Learning-Projects) - Machine Learning Projects developed using Gemini
+- [**Credit Risk Modelling**](https://github.com/kashetty-deekshitha/Credit-Risk-Modeling) - ML-based loan defaulter prediction with **93% accuracy**
+- [**Open AI with Java**](https://github.com/kashetty-deekshitha/OpenAI-with-java) - Project to demonstrate how to integrate OpenAI's GPT models with Java microservices using Spring Boot and Spring AI
+- [**Machine Learning Projects**](https://github.com/kashetty-deekshitha/Machine-Learning-Projects) - Machine Learning Projects developed using Gemini
 - [**Contact Web Application**](https://contactswebapplication.netlify.app/) -Full-stack contacts web application using **NodeJS** and **Firestore**  
 - [**Shopify – Shopping App**](https://shopifyshopping.netlify.app/) - React-based frontend shopping application with cart functionality  
 - [**Telegram Chat Bots**](https://youtu.be/WS0Jy6riiS0) - Developed multiple Telegram bots using **Telegram Bot API**  
@@ -117,7 +117,7 @@ I am a backend developer working at **Lloyds Technology Centre**. I’m passiona
 
 ## 📫 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-👩🏻‍💻-grey)](https://deekshitha-k.github.io/New-Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-👩🏻‍💻-grey)](https://kashetty-deekshitha.github.io/New-Portfolio/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/kashetty-deekshitha)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deekshithakashetty/)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:deekshithakashetty@gmail.com)
